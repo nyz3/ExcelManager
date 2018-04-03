@@ -1,0 +1,9 @@
+SampleTag	SampleParentTag	
+SampleSetType	SampleSetType
+SampleType	SampleType	
+Sample_use_Flag	Sample_use_Flag
+PID	PID	
+SID	SID	
+OBS	OBS
+CohortName	CohortName	
+SubCohortName	SubCohortName

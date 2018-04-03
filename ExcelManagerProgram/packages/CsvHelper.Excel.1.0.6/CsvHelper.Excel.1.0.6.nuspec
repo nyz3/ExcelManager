@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CsvHelper.Excel</id>
+    <version>1.0.6</version>
+    <title>CsvHelper.Excel</title>
+    <authors>Chris Rodgers</authors>
+    <owners>Chris Rodgers</owners>
+    <licenseUrl>https://github.com/christophano/CsvHelper.Excel/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/christophano/CsvHelper.Excel</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An implementation of ICsvParser and ICsvSerializer from CsvHelper that reads and writes using the ClosedXml library.</description>
+    <summary />
+    <tags>CSV CSVHelper Excel ClosedXML</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework3.5">
+        <dependency id="ClosedXML" version="0.87.1" />
+        <dependency id="CsvHelper" version="2.16.3" />
+        <dependency id="DocumentFormat.OpenXml" version="2.7.2" />
+      </group>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="ClosedXML" version="0.87.1" />
+        <dependency id="CsvHelper" version="2.16.3" />
+        <dependency id="DocumentFormat.OpenXml" version="2.7.2" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Data" targetFramework=".NETFramework4.0, .NETFramework3.5" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework3.5" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

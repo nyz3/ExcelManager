@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NPOI.Extension</id>
+    <version>2.1.0</version>
+    <title>NPOI.Extension</title>
+    <authors>rigofunc (xuyingting)</authors>
+    <owners>rigofunc (xuyingting)</owners>
+    <licenseUrl>https://github.com/xyting/NPOI.Extension/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Arch/FluentExcel</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The extensions of NPOI, which provides IEnumerable&lt;T&gt; save to and load from excel.  This package had evolved as FluentExcel, please update your code to use FluentExcel package.</description>
+    <summary>The extensions of NPOI, which provides IEnumerable&lt;T&gt; save to and load from excel.  This package had evolved as FluentExcel, please update your code to use FluentExcel package.</summary>
+    <releaseNotes>1. Support fluent configuration api; 2. Support more custom cell formartter; 3. Fixed some issues;</releaseNotes>
+    <copyright>Copyright © rigofunc (xuyingting). All rights reserved.</copyright>
+    <tags>npoi xlsx xls Excel Word docx</tags>
+    <dependencies>
+      <dependency id="NPOI" version="2.3.0" />
+    </dependencies>
+  </metadata>
+</package>

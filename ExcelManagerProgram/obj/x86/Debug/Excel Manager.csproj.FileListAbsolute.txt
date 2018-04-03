@@ -1,0 +1,27 @@
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\DocumentFormat.OpenXml.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\ExcelDataReader.DataSet.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\ExcelDataReader.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\NPOI.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\NPOI.OOXML.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\NPOI.OpenXml4Net.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\DocumentFormat.OpenXml.xml
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\ExcelDataReader.xml
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\ExcelDataReader.DataSet.xml
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\NPOI.xml
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Excel Manager.csproj.ResolveComReference.cache
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Excel Manager.csproj.GenerateResource.Cache
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\svc-hgc001\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
